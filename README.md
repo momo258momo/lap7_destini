@@ -12,4 +12,5 @@ Khi người chơi chọn một hành động, giao diện sẽ cập nhật d�
 
 ## Tài nguyên
 
-- Ảnh demo: `assets/image/image.png`
+- Ảnh demo:
+  ![Ảnh demo](assets/image/image.png)
